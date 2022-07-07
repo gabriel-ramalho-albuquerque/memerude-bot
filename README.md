@@ -1,0 +1,2 @@
+# memerude-bot
+Discord bot
